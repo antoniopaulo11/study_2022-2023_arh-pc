@@ -2,7 +2,7 @@
 ## Front matter
 title: "Oтчёт по лабораторной работе № 5"
 subtitle: "НММбд-02-22"
-author: "Нати Франсишку Бунда"
+author: "Паулу Антонью Жоау"
 
 ## Generic otions
 lang: ru-RU
